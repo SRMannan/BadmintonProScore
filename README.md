@@ -72,6 +72,13 @@ Building an app for a tiny, circular wearable screen came with its own set of fu
 
 ### Installation & Deployment
 
-1. **Clone the Repository:**
+1 . **Clone the Repository:**
 ```bash
    git clone [https://github.com/SRMannan/BadmintonProScore.git](https://github.com/SRMannan/BadmintonProScore.git)
+``` 
+
+2 . **Open the Project:**
+Launch Android Studio and select Open an Existing Project, then navigate to the cloned directory. 
+
+3 . **Run the App:**
+Connect your Wear OS device via Wi-Fi/Bluetooth debugging (or launch your emulator) and click the Run button (Shift + F10) in Android Studio.
