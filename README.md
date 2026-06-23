@@ -32,15 +32,15 @@ This app started as a personal tool to fix my own court frustrations, but I’ve
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/main_score.png" width="180" alt="Main Scoring Screen"><br>
+      <img src="ScreenShots/Normal_Points.png" width="180" alt="Main Scoring Screen"><br>
       <sub><b>Active Scoring</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/deuce.png" width="180" alt="Deuce Screen"><br>
+      <img src="ScreenShots/Deuce_Case.png" width="180" alt="Deuce Screen"><br>
       <sub><b>Deuce Mode 🔥</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/winner.png" width="180" alt="Winner Screen"><br>
+      <img src="ScreenShots/WinScreen.png" width="180" alt="Winner Screen"><br>
       <sub><b>Victory Screen</b></sub>
     </td>
   </tr>
