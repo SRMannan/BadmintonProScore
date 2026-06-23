@@ -28,14 +28,13 @@ This app started as a personal tool to fix my own court frustrations, but I’ve
 - **Native Implementation:** Completely standalone application deployed via Android Studio—no companion phone app required.
 
 
-<!-- ## Screenshots
- * (Tip: You can upload your screenshots to a `screenshots/` folder in your GitHub repo and link them here)*
-*<table>
+## Screenshots
+<table>
   <tr>
     <td><img src="screenshots/main_score.png" width="200" alt="Scoring Screen"></td>
     <td><img src="screenshots/match_setup.png" width="200" alt="Setup Screen"></td>
   </tr>
-</table> * -->
+</table>
 
 ## Technical Stack
 
