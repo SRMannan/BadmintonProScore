@@ -1,4 +1,4 @@
-# Badminton Pro Score 🏸
+# RALLY STAT 🏸
 
 <p align="center">
   <img src="ScreenShots/RALLY_STAT_logo.png" alt="Badminton Pro Score Banner" width="100%">
@@ -12,7 +12,7 @@ As a badminton player, I kept running into a constant annoyance on the court: **
 
 Looking up at a scoreboard isn't always an option, and pulling out a smartphone between points completely ruins the flow of a fast-paced game. I realized the perfect solution was already sitting on my wrist—a smartwatch. However, when I looked for apps, I couldn't find a clean, standalone tracker that worked exactly the way a player thinks during a match.
 
-So, I decided to build **Badminton Pro Score**.
+So, I decided to build **RALLY_STAT**.
 
 ### The Development Journey & Challenges
 
