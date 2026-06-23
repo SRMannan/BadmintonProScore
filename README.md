@@ -1,5 +1,9 @@
 # Badminton Pro Score 🏸
 
+<p align="center">
+  <img src="ScreenShots/RALLY_STAT_logo.png" alt="Badminton Pro Score Banner" width="100%">
+</p>
+
 A lightweight, standalone Wear OS application designed to keep track of badminton scores directly from your wrist. Built natively using Android Studio and Jetpack Compose for Wear OS, it offers a seamless, glance-optimized user interface tailored for circular smartwatch screens.
 
 ## Why I Built This 🚀
